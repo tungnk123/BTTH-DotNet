@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTTH-DotNet", "BTTH-DotNet\BTTH-DotNet.csproj", "{CDBCB586-DC4E-4210-805D-83657046F264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTTH-DotNet-API", "BTTH-DotNet-API\BTTH-DotNet-API.csproj", "{81D6A24F-ECAE-4514-8D00-077233D5D3B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBCB586-DC4E-4210-805D-83657046F264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBCB586-DC4E-4210-805D-83657046F264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBCB586-DC4E-4210-805D-83657046F264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBCB586-DC4E-4210-805D-83657046F264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D6A24F-ECAE-4514-8D00-077233D5D3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D6A24F-ECAE-4514-8D00-077233D5D3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D6A24F-ECAE-4514-8D00-077233D5D3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D6A24F-ECAE-4514-8D00-077233D5D3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721484C7-85E0-4B34-AEDE-A4E1EF6FE11A}
+	EndGlobalSection
+EndGlobal
